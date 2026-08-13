@@ -1,0 +1,28 @@
+{
+  "name": "iasi-graphics-spec-v0.1",
+  "product": "iasi-graphics",
+  "version": "0.1",
+  "engine": "Go",
+  "source_extension": ".ig",
+  "primary_output": "SVG",
+  "quarto_block": "{iasi-graphics}",
+  "quarto_adapter": "Lua filter",
+  "documents": [
+    "README.md",
+    "00-product-vision.md",
+    "01-principles-and-scope.md",
+    "02-architecture.md",
+    "03-dsl.md",
+    "04-parser-and-ast.md",
+    "05-semantic-model.md",
+    "06-layout-engine.md",
+    "07-svg-renderer.md",
+    "08-cli.md",
+    "09-quarto-integration.md",
+    "10-testing-and-acceptance.md",
+    "11-implementation-plan.md",
+    "12-open-questions.md",
+    "13-codex-instructions.md",
+    "14-development-workflow.md"
+  ]
+}
