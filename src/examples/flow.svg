@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Del diálogo al artefacto</title>
+  <desc id="desc">Conceptual flow: Del diálogo al artefacto</desc>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="0.0" y="0.0" width="1600.0" height="900.0" rx="0.0" fill="#F7F8FC" stroke="" stroke-width="0.0"/>
+    <text x="800.0" y="78.0" text-anchor="middle" fill="#172033" font-size="52.0" font-weight="700"><tspan x="800.0" dy="0.0">Del diálogo al artefacto</tspan></text>
+    <rect x="490.0" y="170.0" width="620.0" height="116.5" rx="22.0" fill="#FFFFFF" stroke="#DDE3EE" stroke-width="2.0"/>
+    <g fill="none" stroke="#6C55E0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="528.0" y="211.2" width="34.0" height="24.5" rx="6"/><path d="M 538.2 235.7 l -6 8 v -8"/></g>
+    <text x="820.0" y="212.0" text-anchor="middle" fill="#172033" font-size="26.0" font-weight="700"><tspan x="820.0" dy="0.0">Conversación</tspan></text>
+    <text x="820.0" y="247.5" text-anchor="middle" fill="#58657A" font-size="18.0" font-weight="400"><tspan x="820.0" dy="0.0">Exploración y discusión</tspan></text>
+    <rect x="426.0" y="314.5" width="360.0" height="116.5" rx="22.0" fill="#FFFFFF" stroke="#DDE3EE" stroke-width="2.0"/>
+    <g fill="none" stroke="#6C55E0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M 464.0 389.8 C 464.0 355.8 498.0 389.8 498.0 355.8"/><circle cx="464.0" cy="389.8" r="3"/><circle cx="498.0" cy="355.8" r="3"/></g>
+    <text x="626.0" y="356.5" text-anchor="middle" fill="#172033" font-size="26.0" font-weight="700"><tspan x="626.0" dy="0.0">Journey</tspan></text>
+    <text x="626.0" y="392.0" text-anchor="middle" fill="#58657A" font-size="18.0" font-weight="400"><tspan x="626.0" dy="0.0">Cómo llegamos</tspan></text>
+    <rect x="814.0" y="314.5" width="360.0" height="116.5" rx="22.0" fill="#FFFFFF" stroke="#DDE3EE" stroke-width="2.0"/>
+    <g fill="none" stroke="#6C55E0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M 869.0 355.8 l 17.0 17.0 l -17.0 17.0 l -17.0 -17.0 Z"/><path d="M 869.0 389.8 v 8.0"/></g>
+    <text x="1014.0" y="356.5" text-anchor="middle" fill="#172033" font-size="26.0" font-weight="700"><tspan x="1014.0" dy="0.0">EDR</tspan></text>
+    <text x="1014.0" y="392.0" text-anchor="middle" fill="#58657A" font-size="18.0" font-weight="400"><tspan x="1014.0" dy="0.0">Qué decidimos</tspan></text>
+    <path d="M 800.0 286.5 L 800.0 300.5 M 606.0 300.5 L 994.0 300.5 M 606.0 300.5 L 606.0 314.5 M 994.0 300.5 L 994.0 314.5" fill="none" stroke="#9AA6B8" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 606.0 431.0 L 606.0 445.0 M 994.0 431.0 L 994.0 445.0 M 606.0 445.0 L 994.0 445.0 M 800.0 445.0 L 800.0 459.0" fill="none" stroke="#9AA6B8" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="490.0" y="459.0" width="620.0" height="116.5" rx="22.0" fill="#FFFFFF" stroke="#DDE3EE" stroke-width="2.0"/>
+    <g fill="none" stroke="#6C55E0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M 528.0 500.2 h 15.0 q 8 0 8 8 v 25.5 q -8 -8 -8 -8 h -15.0 Z"/><path d="M 545.0 508.2 v 25.5"/></g>
+    <text x="820.0" y="513.2" text-anchor="middle" fill="#172033" font-size="26.0" font-weight="700"><tspan x="820.0" dy="0.0">Conocimiento</tspan></text>
+    <path d="M 800.0 575.5 L 800.0 589.5 M 800.0 589.5 L 800.0 603.5" fill="none" stroke="#9AA6B8" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="490.0" y="603.5" width="620.0" height="116.5" rx="22.0" fill="#FFFFFF" stroke="#DDE3EE" stroke-width="2.0"/>
+    <g fill="none" stroke="#6C55E0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="528.0" y="644.8" width="34.0" height="34.0" rx="4"/><path d="M 533.0 656.6 h 24.0 M 533.0 666.9 h 24.0"/></g>
+    <text x="820.0" y="657.8" text-anchor="middle" fill="#172033" font-size="26.0" font-weight="700"><tspan x="820.0" dy="0.0">Artefactos</tspan></text>
+    <path d="M 800.0 720.0 L 800.0 750.0 M 800.0 750.0 L 800.0 780.0" fill="none" stroke="#9AA6B8" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="300.0" y="780.0" width="1000.0" height="82.0" rx="20.0" fill="#EEEAFE" stroke="#6C55E0" stroke-width="1.5"/>
+    <text x="800.0" y="814.0" text-anchor="middle" fill="#172033" font-size="24.0" font-weight="600"><tspan x="800.0" dy="0.0">La experiencia y la decisión se convierten en conocimiento</tspan><tspan x="800.0" dy="29.0">reutilizable</tspan></text>
+  </g>
+</svg>
